@@ -98,7 +98,7 @@ Você pode acessar um protótipo do front-end [aqui](https://www.figma.com/file/
 
 ### Testes
 
-23. A cobertura de testes unitários do front-end deve ser de, no mínimo, 90%.
+1. A cobertura de testes unitários do front-end deve ser de, no mínimo, 90%.
 
 ### Abordagem DDD e Sequelize
 
